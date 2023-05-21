@@ -1,0 +1,16 @@
+.home-page {
+  text-align: center;
+  padding: 20px;
+}
+.home-page h1 {
+  font-size: 2em;
+}
+.home-page button {
+  margin: 10px;
+}
+.item-of-the-day {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
